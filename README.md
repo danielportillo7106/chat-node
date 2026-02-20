@@ -15,7 +15,7 @@
 
 ## 📦 Instalación y Uso
 
-Sigue estos pasos para correr el proyecto localmente, ya que por el momento no esta funcionando en Heroku:
+Sigue estos pasos para correr el proyecto localmente, ya que por el momento aún no esta arriba en Heroku:
 
 1. **Clona el repositorio:**
    ```bash
